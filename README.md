@@ -1,1 +1,1 @@
-# CS145TowersofHanoi
+For this recursion assignment we decided  to go with the towers of Hanoi. This program will show the steps it takes to get all the disk's from the first tower to that last tower without stacking bigger disks over smaller disks. For extra credit I also made the program to where you could put it any number of disks and it will still solve the game. Displaying each step it had to take to accomplish the task. 
